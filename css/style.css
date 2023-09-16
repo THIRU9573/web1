@@ -1,0 +1,41 @@
+.favorite-places-container {
+    background-image: url("https://img.freepik.com/free-photo/close-up-submerged-stones-lake_1160-543.jpg?w=360&t=st=1686143450~exp=1686144050~hmac=8a368e10f339041ccea96e3aa8538f3007a62a713519e9e674fd2607103f50bf");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+
+.favorite-places-heading {
+color: white;
+font-size: 28px;
+font-family: "Roboto";
+font-weight: bold;
+padding: 24px;
+}
+
+.favorite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 15px;
+}
+
+.favorite-place-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.favorite-place-card-description {
+    font-family: 'Roboto';
+    font-size: 13px;
+    color: #6c6b70;
+}
+
+.favorite-place-card-image {
+    width: 100px;
+    height: 100px;
+}
